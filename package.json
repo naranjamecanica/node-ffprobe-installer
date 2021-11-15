@@ -18,7 +18,7 @@
 	"files": [
 		"index.js",
 		"lib",
-		"platform"
+		"platforms/darwin-arm64"
 	],
 	"optionalDependencies": {
 		"@ffprobe-installer/darwin-x64": "5.0.0",
